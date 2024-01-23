@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lavanshi295&label=Profile%20views&color=0e75b6&style=flat" alt="lavanshi295" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Rest API**
 
-- 💬 Ask me about **Frontend Development**
+- 💬 Ask me about **Frontend & Backend Development**
 
 - 📫 How to reach me **lavanshibansal29@gmail.com**
 
