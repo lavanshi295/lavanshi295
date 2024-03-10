@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lavanshi295&label=Profile%20views&color=0e75b6&style=flat" alt="lavanshi295" /> </p>
 
 # 💫 About Me:
-:computer: I'm currently learning GSAP
+:computer: I'm currently learning Next.js
 <br>:seedling: Ask me about Frontend & Backend Development
 <br>:mailbox_closed: How to reach me lavanshibansal29@gmail.com
 
